@@ -34,6 +34,7 @@ what you will need for quantitative researcher:
 
 
 4. Brain teaser: all the interview books
+5. At least one competition plus a few interesting projects
 
 Resources: 
 1. PKUflying pig self study CS guide: https://github.com/PKUFlyingPig/Self-learning-Computer-Science.git

@@ -15,7 +15,7 @@ what you will need for quantitative researcher:
   
   1.4 	7. Stochastic process and calculus
 
-2. programming
+2. programming (so far the weakest)
   2.1 Python
   
   2.2 Data structure and algorithm
@@ -42,4 +42,3 @@ Resources:
 1. PKUflying pig self study CS guide: https://github.com/PKUFlyingPig/Self-learning-Computer-Science.git
 2. OSSU computer science curriculum: https://github.com/ossu/computer-science.git
 3. Computational physics with J. M. Thijssen (c++ coding and a lot of applications in physics too)![image](https://user-images.githubusercontent.com/35053057/227653870-60d1a8e8-94e7-4757-8608-52c1181f2a1f.png)
-

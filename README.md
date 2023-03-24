@@ -23,6 +23,7 @@ what you will need for quantitative researcher:
   2.2 Data structure and algorithm
   
   2.3 Machine learning and AI: 
+  
     * https://mlcourse.ai/book/index.html, Elements of statistical learning
     *Foundations of Reinforcement Learning with Applications in Finance, Ashwin Rao, he has a whole course website with assignments and exams
   

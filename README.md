@@ -27,6 +27,7 @@ what you will need for quantitative researcher:
     * Python cookbook textbook
   
   2.2 Data structure and algorithm
+  Coursera course from Princeton: Algorithms, part 1 and 2
   
   2.3 Machine learning and AI: 
   

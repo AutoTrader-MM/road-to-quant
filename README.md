@@ -20,6 +20,7 @@ what you will need for quantitative researcher:
 2. programming (so far the weakest)
 
   2.1 Python
+  
     * UCB CS61 A B C, not sure if no EDX but there is a lot online resources
     * Harward CS50 on EDX
     * Rice Fundamentals of Computing Specialization on coursera

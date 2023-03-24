@@ -20,6 +20,10 @@ what you will need for quantitative researcher:
 2. programming (so far the weakest)
 
   2.1 Python
+    * UCB CS61 A B C, not sure if no EDX but there is a lot online resources
+    * Harward CS50 on EDX
+    * Rice Fundamentals of Computing Specialization on coursera
+    * Python cookbook textbook
   
   2.2 Data structure and algorithm
   
@@ -27,6 +31,7 @@ what you will need for quantitative researcher:
   
     * https://mlcourse.ai/book/index.html, Elements of statistical learning
     *Foundations of Reinforcement Learning with Applications in Finance, Ashwin Rao, he has a whole course website with assignments and exams
+    * ESL book with the reading group + EDX course from the authors
   
   2.4 C++
 

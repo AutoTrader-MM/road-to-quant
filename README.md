@@ -2,7 +2,7 @@
 
 Study resources to become a quant
 
-what you will need for quantitative researcher: 
+what you will need to learn to be a quantitative researcher: 
 
 * Math: 
   1.1 probability

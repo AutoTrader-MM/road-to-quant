@@ -18,6 +18,7 @@ what you will need for quantitative researcher:
   1.4 Stochastic process and calculus
 
 2. programming (so far the weakest)
+
   2.1 Python
   
   2.2 Data structure and algorithm
@@ -35,11 +36,6 @@ what you will need for quantitative researcher:
 
 
 4. Brain teaser: all the interview books
-
-
-
-
-
 
 Resources: 
 1. PKUflying pig self study CS guide: https://github.com/PKUFlyingPig/Self-learning-Computer-Science.git

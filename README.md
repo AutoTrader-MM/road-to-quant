@@ -6,23 +6,25 @@ what you will need for quantitative researcher:
 
 1. Math: 
   1.1 probability
-  * Casella and Bergers
-  * Blitzstein probability
-  * Diez probability
+    * Casella and Bergers
+    * Blitzstein probability
+    * Diez probability
+    
   1.2 linear algebra
-  * Introduction to Linear Algebra, Fifth Edition by Gilbert Strang
+    * Introduction to Linear Algebra, Fifth Edition by Gilbert Strang
+    
   1.3 Optimization: Optimization Methods in Asset Management coursera course by Columbia
   
-  1.4 	7. Stochastic process and calculus
+  1.4 Stochastic process and calculus
 
 2. programming (so far the weakest)
   2.1 Python
   
   2.2 Data structure and algorithm
   
-  2.3 Machine learning and AI: https://mlcourse.ai/book/index.html, Elements of statistical learning
-  
-Foundations of Reinforcement Learning with Applications in Finance, Ashwin Rao, he has a whole course website with assignments and exams
+  2.3 Machine learning and AI: 
+    * https://mlcourse.ai/book/index.html, Elements of statistical learning
+    *Foundations of Reinforcement Learning with Applications in Finance, Ashwin Rao, he has a whole course website with assignments and exams
   
   2.4 C++
   

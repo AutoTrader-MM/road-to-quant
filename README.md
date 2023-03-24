@@ -4,7 +4,7 @@ Study resources to become a quant
 
 what you will need for quantitative researcher: 
 
-1. Math: 
+* Math: 
   1.1 probability
     * Casella and Bergers
     * Blitzstein probability
@@ -17,7 +17,7 @@ what you will need for quantitative researcher:
   
   1.4 Stochastic process and calculus
 
-2. programming (so far the weakest)
+* programming (so far the weakest)
 
   2.1 Python
   
@@ -37,11 +37,11 @@ what you will need for quantitative researcher:
   
   2.4 C++
 
-3. Finance basics, financial derivatives
+* Finance basics, financial derivatives
 
 
-4. Brain teaser: all the interview books
-5. At least one competition plus a few interesting projects
+* Brain teaser: all the interview books
+* At least one competition plus a few interesting projects
     * IMC trading competition
 
 Resources: 

@@ -52,3 +52,5 @@ Resources:
 1. PKUflying pig self study CS guide: https://github.com/PKUFlyingPig/Self-learning-Computer-Science.git
 2. OSSU computer science curriculum: https://github.com/ossu/computer-science.git
 3. Computational physics with J. M. Thijssen (c++ coding and a lot of applications in physics too)!
+4. kaggle 
+5. leetcode

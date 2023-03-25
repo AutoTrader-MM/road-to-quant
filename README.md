@@ -36,6 +36,9 @@ what you will need to learn to be a quantitative researcher:
     * ESL book with the reading group + EDX course from the authors
   
   2.4 C++
+  * Udemy nanodegree
+  * accelerate C++
+  * Primer
 
 * Finance basics, financial derivatives
 

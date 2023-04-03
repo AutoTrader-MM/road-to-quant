@@ -35,7 +35,10 @@ what you will need to learn to be a quantitative researcher:
     *Foundations of Reinforcement Learning with Applications in Finance, Ashwin Rao, he has a whole course website with assignments and exams
     * ESL book with the reading group + EDX course from the authors
   
-  2.4 C++
+  2.4 Mining of Massive Datasets
+  * http://www.mmds.org, see also the EDX course and free pdf textbook
+  
+  2.5 C++
   * Udemy nanodegree
   * accelerate C++
   * Primer

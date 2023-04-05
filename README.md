@@ -14,9 +14,13 @@ Study resources to become a quant researcher.
   
   - [ ]  Introduction to Linear Algebra, Fifth Edition by Gilbert Strang
     
-  3 Optimization: Optimization Methods in Asset Management coursera course by Columbia
+  3 Optimization
+  
+  - [ ] Optimization Methods in Asset Management coursera course by Columbia
   
   4 Stochastic process and calculus
+  
+  - [ ] Shreve volume 1 and 2
 
 ## programming (so far the weakest)
 

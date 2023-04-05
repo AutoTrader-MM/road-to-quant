@@ -7,7 +7,7 @@ what you will need to learn to be a quantitative researcher:
   ## Math
   ### probability
     
-- [ ] Casella and Bergers
+- [x] Casella and Bergers
 - [ ] Blitzstein probability
 - [ ] Diez probability
     

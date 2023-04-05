@@ -22,34 +22,34 @@ Study resources to become a quant researcher.
   
   - [ ] Shreve volume 1 and 2
 
-## programming (so far the weakest)
+## Programming (so far the weakest)
 
-### Python
+  1 Python
   
     * UCB CS61 A B C, not sure if no EDX but there is a lot online resources
     * Harward CS50 on EDX
     * Rice Fundamentals of Computing Specialization on coursera
     * Python cookbook textbook
   
-  2.2 Data structure and algorithm
+  2 Data structure and algorithm
   Coursera course from Princeton: Algorithms, part 1 and 2
   
-  2.3 Machine learning and AI: 
+  3 Machine learning and AI: 
   
     * https://mlcourse.ai/book/index.html, Elements of statistical learning
     *Foundations of Reinforcement Learning with Applications in Finance, Ashwin Rao, he has a whole course website with assignments and exams
     * ESL book with the reading group + EDX course from the authors
   
-  2.4 Mining of Massive Datasets
+  4 Mining of Massive Datasets
   * http://www.mmds.org, see also the EDX course and free pdf textbook
   
-  2.5 C++
+  5 C++
   * Udemy nanodegree
   * accelerate C++
   * Primer
   * Coursera course
 
-## Finance basics, financial derivatives
+## Finance basics
 
 
 ## Brain teaser: all the interview books

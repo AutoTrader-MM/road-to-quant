@@ -4,22 +4,23 @@ Study resources to become a quant
 
 what you will need to learn to be a quantitative researcher: 
 
-* Math: 
-  1.1 probability
-    * Casella and Bergers
-    * Blitzstein probability
-    * Diez probability
+  ## Math
+    ### probability
     
-  1.2 linear algebra
+    ### Casella and Bergers
+    ### Blitzstein probability
+    ### Diez probability
+    
+   linear algebra
     * Introduction to Linear Algebra, Fifth Edition by Gilbert Strang
     
   1.3 Optimization: Optimization Methods in Asset Management coursera course by Columbia
   
   1.4 Stochastic process and calculus
 
-* programming (so far the weakest)
+## programming (so far the weakest)
 
-  2.1 Python
+### Python
   
     * UCB CS61 A B C, not sure if no EDX but there is a lot online resources
     * Harward CS50 on EDX
@@ -44,11 +45,12 @@ what you will need to learn to be a quantitative researcher:
   * Primer
   * Coursera course
 
-* Finance basics, financial derivatives
+## Finance basics, financial derivatives
 
 
-* Brain teaser: all the interview books
-* At least one competition plus a few interesting projects
+## Brain teaser: all the interview books
+
+## At least one competition plus a few interesting projects
     * IMC trading competition
 
 Resources: 

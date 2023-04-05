@@ -1,22 +1,22 @@
 # road-to-quant
 
-Study resources to become a quant
-
-what you will need to learn to be a quantitative researcher: 
+Study resources to become a quant researcher. 
 
   ## Math
-  ### probability
-    
-- [x] Casella and Bergers
-- [ ] Blitzstein probability
-- [ ] Diez probability
-    
-   ### linear algebra
-    - [ ]  Introduction to Linear Algebra, Fifth Edition by Gilbert Strang
-    
-  ### Optimization: Optimization Methods in Asset Management coursera course by Columbia
   
-  ### Stochastic process and calculus
+  1 Combinatorics, probability and statistics
+    
+   - [ ] Casella and Bergers
+   - [ ] Introduction to Probability, by Blitzstein & Hwang
+   - [ ] OpenIntro Statistics, 4th ed, by Diez
+
+  2 Linear algebra
+  
+  - [ ]  Introduction to Linear Algebra, Fifth Edition by Gilbert Strang
+    
+  3 Optimization: Optimization Methods in Asset Management coursera course by Columbia
+  
+  4 Stochastic process and calculus
 
 ## programming (so far the weakest)
 

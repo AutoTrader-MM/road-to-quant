@@ -7,16 +7,16 @@ what you will need to learn to be a quantitative researcher:
   ## Math
   ### probability
     
-#### Casella and Bergers
-#### Blitzstein probability
-#### Diez probability
+- [ ] Casella and Bergers
+- [ ] Blitzstein probability
+- [ ] Diez probability
     
-   linear algebra
-    * Introduction to Linear Algebra, Fifth Edition by Gilbert Strang
+   ### linear algebra
+    - [ ]  Introduction to Linear Algebra, Fifth Edition by Gilbert Strang
     
-  1.3 Optimization: Optimization Methods in Asset Management coursera course by Columbia
+  ### Optimization: Optimization Methods in Asset Management coursera course by Columbia
   
-  1.4 Stochastic process and calculus
+  ### Stochastic process and calculus
 
 ## programming (so far the weakest)
 

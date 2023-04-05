@@ -16,7 +16,7 @@ Study resources to become a quant researcher.
     
   3 Optimization
   
-  - [ ] Optimization Methods in Asset Management coursera course by Columbia
+  - [ ] Optimization Methods in Asset Management, Coursera course by Columbia
   
   4 Stochastic process and calculus
   

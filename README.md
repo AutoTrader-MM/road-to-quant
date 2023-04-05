@@ -5,11 +5,11 @@ Study resources to become a quant
 what you will need to learn to be a quantitative researcher: 
 
   ## Math
-    ### probability
+  ### probability
     
-    ### Casella and Bergers
-    ### Blitzstein probability
-    ### Diez probability
+#### Casella and Bergers
+#### Blitzstein probability
+#### Diez probability
     
    linear algebra
     * Introduction to Linear Algebra, Fifth Edition by Gilbert Strang

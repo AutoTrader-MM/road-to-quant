@@ -32,7 +32,8 @@ Study resources to become a quant researcher.
     * Python cookbook textbook
   
   2 Data structure and algorithm
-  Coursera course from Princeton: Algorithms, part 1 and 2
+  
+  - [ ] Coursera course from Princeton: Algorithms, part 1 and 2
   
   3 Machine learning and AI: 
   
@@ -41,6 +42,7 @@ Study resources to become a quant researcher.
     * ESL book with the reading group + EDX course from the authors
   
   4 Mining of Massive Datasets
+  
   * http://www.mmds.org, see also the EDX course and free pdf textbook
   
   5 C++

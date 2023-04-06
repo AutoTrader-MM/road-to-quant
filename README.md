@@ -22,7 +22,7 @@ Study resources to become a quant researcher.
   
   - [ ] Shreve volume 1 and 2
 
-## Programming (so far the weakest)
+## Programming
 
   1 Python
   
@@ -35,7 +35,7 @@ Study resources to become a quant researcher.
   
   - [ ] Coursera course from Princeton: Algorithms, part 1 and 2
   
-  3 Machine learning and AI: 
+  3 Machine learning and AI
   
     * https://mlcourse.ai/book/index.html, Elements of statistical learning
     *Foundations of Reinforcement Learning with Applications in Finance, Ashwin Rao, he has a whole course website with assignments and exams
@@ -58,6 +58,21 @@ Study resources to become a quant researcher.
 
 ## At least one competition plus a few interesting projects
     * IMC trading competition
+
+
+
+## Timeline
+
+| Time | What to study | Measurable goals |
+|-----:|---------------|------------------|
+|Apr   |Probability    | Mark Joshi, Zhou, Stafan prob problems finished 1st round          |
+|Apr - May   |ML|              | ML coursera certificate, edx certificate, all ESL Ch2, 3, 7 exercise|
+|May   |Massive Data Mining|   edx certificate            |
+| June    | Stochastic Calculus               | Shreve volume 2 exercises
+| July - August | C++ | Udemy C++ certificate|
+| July - August | Data structure | coursera certificate
+| July - August | Python programming | python programming certificate|
+
 
 Resources: 
 1. PKUflying pig self study CS guide: https://github.com/PKUFlyingPig/Self-learning-Computer-Science.git

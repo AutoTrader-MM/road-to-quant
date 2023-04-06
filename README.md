@@ -69,7 +69,7 @@ Study resources to become a quant researcher.
 |Apr - May   |ML|              | ML coursera certificate, edx certificate, all ESL Ch2, 3, 7 exercise|
 |May   |Massive Data Mining|   edx certificate            |
 | June    | Stochastic Calculus               | Shreve volume 2 exercises
-| July - August | C++ | Udemy C++ certificate|
+| July - August | C++ | Udemy C++ nanodegree|
 | July - August | Data structure | coursera certificate
 | July - August | Python programming | python programming certificate|
 

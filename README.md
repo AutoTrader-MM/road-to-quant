@@ -66,7 +66,7 @@ Study resources to become a quant researcher.
 | Time | What to study | Measurable goals |
 |-----:|---------------|------------------|
 |Apr   |Probability    | Mark Joshi, Zhou, Stafan prob problems finished 1st round          |
-|Apr - May   |ML|              | ML coursera certificate, edx certificate, all ESL Ch2, 3, 7 exercise|
+|Apr - May   |ML|ML coursera certificate, edx certificate, all ESL Ch2, 3, 7 exercise|
 |May   |Massive Data Mining|   edx certificate            |
 | June    | Stochastic Calculus               | Shreve volume 2 exercises
 | July - August | C++ | Udemy C++ nanodegree|

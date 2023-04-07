@@ -80,3 +80,4 @@ Resources:
 3. Computational physics with J. M. Thijssen (c++ coding and a lot of applications in physics too)!
 4. kaggle 
 5. leetcode
+6. Princeton classes on coursera are so good, e.g. analysis of algorithms

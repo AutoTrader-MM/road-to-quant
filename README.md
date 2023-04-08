@@ -81,3 +81,4 @@ Resources:
 4. kaggle 
 5. leetcode
 6. Princeton classes on coursera are so good, e.g. analysis of algorithms
+7. mental math from https://arithmetic.zetamac.com

@@ -83,3 +83,4 @@ Resources:
 6. Princeton classes on coursera are so good, e.g. analysis of algorithms
 7. mental math from https://arithmetic.zetamac.com
 8. good youtube channel: https://www.youtube.com/playlist?list=PL_-KSXJS5pxN1O9apdUhuFXBkFa12JuLx
+9. look for ebooks here: https://libgen.rs

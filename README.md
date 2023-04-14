@@ -1,6 +1,8 @@
 # road-to-quant
 
 Study resources to become a quant researcher. 
+# Phase 1: build your foundations
+Learn math, programming and finance well during this phase. Build a solid knowledge and skills foundation.
 
   ## Math
   
@@ -52,12 +54,20 @@ Study resources to become a quant researcher.
   * Coursera course
 
 ## Finance basics
-
+* Vault guide 
+* McDonald 
+* financial derivatives book
 
 ## Brain teaser: all the interview books
 
 ## At least one competition plus a few interesting projects
     * IMC trading competition
+
+# Phase 2: build your portfolio (website, linkedin, resume)
+Write projects and collect them
+
+# Phase 3: network, applications and interviews
+review those inteview problems over and over, 3 times at least for the important ones
 
 
 
@@ -84,3 +94,10 @@ Resources:
 7. mental math from https://arithmetic.zetamac.com
 8. good youtube channel: https://www.youtube.com/playlist?list=PL_-KSXJS5pxN1O9apdUhuFXBkFa12JuLx
 9. look for ebooks here: https://libgen.rs
+
+A few other things:
+1. getting and staying motivated is important
+2. managing stress is vital
+3. timeline is everything, make a plan and follow through
+4. workout everyday
+5. have a routine and keep it.

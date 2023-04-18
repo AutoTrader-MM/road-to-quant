@@ -53,7 +53,7 @@ Learn math, programming and finance well during this phase. Build a solid knowle
   * Primer
   * Coursera course
 
-## Finance basics
+## Finance
 * Vault guide 
 * McDonald 
 * financial derivatives book

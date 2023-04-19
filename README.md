@@ -102,3 +102,6 @@ A few other things:
 3. timeline is everything, make a plan and follow through
 4. workout everyday
 5. have a routine and keep it.
+
+learning how to learn: 
+1. how to use Anki: https://leananki.com/how-to-use-anki-tutorial/

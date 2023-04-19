@@ -104,4 +104,7 @@ A few other things:
 5. have a routine and keep it.
 
 learning how to learn: 
-1. how to use Anki: https://leananki.com/how-to-use-anki-tutorial/
+1. Rewrite notes from books, articles, exercises, slides and create questions into flashcards, like quizlet.com / Anki / memrise / supermemo
+2. how to use Anki: https://leananki.com/how-to-use-anki-tutorial/
+3. learning how to learn coursera course
+4. ultralearning by Scott Young

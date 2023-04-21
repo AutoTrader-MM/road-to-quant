@@ -115,3 +115,5 @@ learning how to learn:
 3. https://www.efinancialcareers.com
 4. nuclearphynance: https://www.nuclearphynance.com
 5. WSO to check what's going on in the industry and look for interesting projects: https://www.wallstreetoasis.com
+6. build a portfolio, your own website and github, to showcase your software development skills.
+7. 

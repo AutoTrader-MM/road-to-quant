@@ -108,3 +108,9 @@ learning how to learn:
 2. how to use Anki: https://leananki.com/how-to-use-anki-tutorial/
 3. learning how to learn coursera course
 4. ultralearning by Scott Young
+
+# Useful resources
+1. Wilmott | Serving The Quantitative Finance Community: https://wilmott.com
+2. quantnet
+3. https://www.efinancialcareers.com
+4. nuclearphynance: https://www.nuclearphynance.com

@@ -94,7 +94,8 @@ Resources:
 7. mental math from https://arithmetic.zetamac.com
 8. good youtube channel: https://www.youtube.com/playlist?list=PL_-KSXJS5pxN1O9apdUhuFXBkFa12JuLx
 9. look for ebooks here: https://libgen.rs
-10. you will collect and compare a lot of resources, books and website, like Crazy Robin. That's okay. Just use a correct system to keep everything organzied
+10. https://neetcode.io
+11. you will collect and compare a lot of resources, books and website, like Crazy Robin. That's okay. Just use a correct system to keep everything organzied
 
 A few other things:
 1. getting and staying motivated is important
